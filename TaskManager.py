@@ -15,4 +15,4 @@ for i in tasks:
         incompleted_task.append(i)    
 print(f"Completed Tasks are {completed_task}")
 print(f"Incompleted Tasks are {incompleted_task}")
-
+S
